@@ -1,0 +1,14 @@
+
+*.user
+*.filters
+*.rc
+*.sln
+*.make
+*.db-wal
+*.ipch
+*.db
+*.db-shm
+*.opendb
+*.vcxproj
+Scheduling Program/.vs/Scheduling Program/v15/.suo
+Scheduling Program/bin/data/.gitkeep
